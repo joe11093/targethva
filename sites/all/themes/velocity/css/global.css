@@ -315,7 +315,13 @@ table.no-border td {
   border: none;
   background: none;
 }
-
+/*
+tr:hover td,
+tr.even:hover td.active,
+tr.odd:hover td.active {
+  background: none;
+} 
+*/
 tr.even {
 }
 
