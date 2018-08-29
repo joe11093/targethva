@@ -5407,3 +5407,8 @@ p{
 .rtecenter {
     text-align: center !important;
 }
+
+.views-view-grid td{
+border:0;
+background-color: #fafafa;
+}
